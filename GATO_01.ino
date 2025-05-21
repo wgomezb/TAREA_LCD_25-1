@@ -75,7 +75,8 @@ void loop() {
   // No se requiere código en el loop
 }
 
-// los posible comandos son los siguientes : 
+
+// Aquí finaliza el código, pero a continuación se muestra la estructura de comandos disponibles en la libreria de la LCD : 
 //drawLine(x0, y0, x1, y1, color)
 //drawRect(x, y, w, h, color)
 //fillRect(x, y, w, h, color)
